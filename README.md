@@ -31,5 +31,5 @@
 
 - 📍 &nbsp; Current location: Uzbekistan Anywhere
 - 📝&nbsp; Ask me about anything, I am happy to help
-- 📨&nbsp; How to reach me: [@azizbekkhabibullaev_](https://instagram.com/azizbekkhabibullaev_/)
+- 📨&nbsp; How to reach me: [Elshodbek](T.me/Viento_Backend/)
 
