@@ -15,7 +15,7 @@
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/material-ui-logo-black-and-white.png" width="30px"></code>
 <code><img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="30px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/graphql-logo-black-and-white.png" width="30px"></code>
-<code><img src="[https://cdn.freebiesupply.com/logos/large/2x/graphql-logo-black-and-white.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShcgf245vfPOWbJSqzI3f4yvFN4H4KUwAKqR1nK7X3KI-Abs_ZA8tMBDmyedqSnJN-DLU&usqp=CAU)" width="30px"></code>
+<code><img src="[[https://cdn.freebiesupply.com/logos/large/2x/graphql-logo-black-and-white.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShcgf245vfPOWbJSqzI3f4yvFN4H4KUwAKqR1nK7X3KI-Abs_ZA8tMBDmyedqSnJN-DLU&usqp=CAU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlNZ0GclDaTzEliHBrpJPB-PeoKrTRTO7RqQ&usqp=CAU))" width="30px"></code>
 <!-- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShcgf245vfPOWbJSqzI3f4yvFN4H4KUwAKqR1nK7X3KI-Abs_ZA8tMBDmyedqSnJN-DLU&usqp=CAU -->
 
 <br />
