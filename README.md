@@ -31,5 +31,5 @@
 
 - 📍 &nbsp; Current location: Uzbekistan Anywhere
 - 📝&nbsp; Ask me about anything, I am happy to help
-- 📨&nbsp; How to reach me: [Elshodbek](T.me/Viento_Backend/)
+- 📨&nbsp; How to reach me: [Elshodbek](http://T.me/Viento_Backend/)
 
